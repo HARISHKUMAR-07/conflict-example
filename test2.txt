@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 this is a test file 
 
 
 this is harish
+=======
+example this is a test file
+>>>>>>> 8e910afd2bd072c85ece68cac31e634dffdd668d
